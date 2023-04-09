@@ -1,1 +1,1 @@
-# Time Series Forecasting with GreyKite- Silverkite & FbProphet - on Electric Production
+# Time Series Forecasting with GreyKite - Silverkite & FbProphet - on Electric Production
